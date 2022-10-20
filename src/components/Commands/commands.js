@@ -140,9 +140,5 @@ export default {
       description: "Clears the terminal",
       usage: "clear",
     },
-    cat: {
-      description: "Get a cute cat image.",
-      usage: "cat",
-    },
   },
 };
